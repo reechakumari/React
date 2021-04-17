@@ -1,27 +1,14 @@
 {
-<<<<<<< HEAD
-  "name": "formvalidation",
-=======
-  "name": "localstorageform",
->>>>>>> 2c4f88abab0e70bc19e395d769fe89211c38bead
+  "name": "local-storage-reactjs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
-<<<<<<< HEAD
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
-=======
-    "grommet": "^2.16.3",
-    "grommet-icons": "^4.5.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "4.0.3",
-    "styled-components": "^5.2.1",
->>>>>>> 2c4f88abab0e70bc19e395d769fe89211c38bead
     "web-vitals": "^1.1.1"
   },
   "scripts": {
