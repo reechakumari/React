@@ -24,6 +24,8 @@ handleChange= (e)=> {
     this.setState({[e.target.name]:e.target.value});
 }
 
+//button 
+
 handleFormSubmit(e) {
     e.preventDefault()
    localStorage.setItem('document',JSON.stringify(this.state));
